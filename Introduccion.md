@@ -2,5 +2,5 @@
 
 revisar cat /etc/oratab
 
-dbca
+dbca \n
 delete database in "Database Configuration Assistent";
